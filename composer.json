@@ -1,5 +1,5 @@
 {
-    "name": "minds/mw3",
+    "name": "sibin-aeione/mw3",
     "description": "Minds PHP Web3",
     "type": "composer-plugin",
     "autoload": {
